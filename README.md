@@ -1,5 +1,5 @@
 # Hi there, I'm trankhoadev - yonnon 👋 
-## I'm a Developer, Language learners!!
+## I'm a Developer, Language learner!!
 
 - 🔭 A website developer!
 - 🌱 I’m currently learning everything 🤣
