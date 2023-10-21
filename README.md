@@ -2,9 +2,9 @@
 ## I'm a Developer, Language learner!!
 
 - 🔭 A website developer!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning nothing 🤣
 - 👯 I don't need love, i fell i'd better be alone
-- 🥅 2022 Goals: Can make full website for myself, can communicate with chinese and make my EN is better.
+- 🥅 2023 Goals: Can get more and more money :) , be able in communicate with Japanese and make my both English and Chinese is better.
 - ⚡ Fun fact: I really like to learn languages and talking with my friends :)
 
 ### Connect with me:
