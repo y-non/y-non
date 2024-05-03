@@ -2,9 +2,8 @@
 ## I'm a Developer, Language learner!!
 
 - 🔭 A website developer!
-- 🌱 I’m currently learning nothing 🤣
-- 👯 I don't need love, i fell i'd better be alone
-- 🥅 2023 Goals: Can get more and more money :) , be able in communicate with Japanese and make my both English and Chinese is better.
+- 🌱 I’m currently learning VueJS and Web animations.
+- 🥅 2024 Goals: enhance both my coding and languages skill to upper level.
 - ⚡ Fun fact: I really like to learn languages and talking with my friends :)
 
 ### Connect with me:
@@ -17,7 +16,7 @@
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/khoa-tr%E1%BA%A7n-ba32b7238/)
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/cute-clipart/30/000000/instagram-new.png)](https://www.instagram.com/khoa7317/)
+[![website](https://img.icons8.com/cute-clipart/30/000000/instagram-new.png)](https://www.instagram.com/yonnon._/)
 
 
 ### Languages and Tools:
