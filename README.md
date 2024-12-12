@@ -1,4 +1,4 @@
-# Hi there, I'm trankhoadev - yonnon 👋 
+# Hi there, I'm yonnon 👋 
 ## I'm a Developer, Language learner!!
 
 - 🔭 A website developer!
