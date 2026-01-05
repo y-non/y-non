@@ -6,19 +6,6 @@
 - 🥅 2024 Goals: enhance both my coding and languages skill to upper level.
 - ⚡ Fun fact: I really like to learn languages and talking with my friends :)
 
-### Connect with me:
-
-[![facebook](https://img.icons8.com/cute-clipart/30/000000/facebook-new.png)](https://www.facebook.com/yonnonnn/)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/doodle/30/000000/youtube-play--v2.png)](https://www.youtube.com/channel/UC6jTp9Q3pWXzvQEaSkh_UtA)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/cute-clipart/30/000000/twitter.png)](https://twitter.com/Yonnon4)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/khoa-tr%E1%BA%A7n-ba32b7238/)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/cute-clipart/30/000000/instagram-new.png)](https://www.instagram.com/yonnon._/)
-
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
