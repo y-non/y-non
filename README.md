@@ -1,8 +1,8 @@
 # Hi there, I'm yonnon 👋 
 
-- 🔭 Frontend Engineer!
-- 🌱 On the way to master VueJS and Frontend stuff.
-- 🥅 2026 Goals: IELTS 7.5, HSK5, N3.
+- Frontend Engineer!
+- On the way to master VueJS and Frontend stuff.
+- 2026 Goals: IELTS 7.5, HSK5, N3.
 
 ### Languages and Tools:
 
